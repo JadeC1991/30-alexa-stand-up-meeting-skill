@@ -28,8 +28,8 @@
                         }
                     ],
                     "samples": [
-                        "मेरा code  {MeetingCode} है",
-                        "code  {MeetingCode} है",
+                        "मेरा code {MeetingCode} है",
+                        "code {MeetingCode} है",
                         "{MeetingCode}"
                     ]
                 },
